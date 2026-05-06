@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Large data/model files
+data/cars/
+*.pth
+*.pt
+
+# System files
+.DS_Store
